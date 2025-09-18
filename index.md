@@ -70,3 +70,10 @@ layout: default
 *   **Nauru Telecom (NTA) APN 设置：**
     *   APN： `internet` 或 `nta` (购买时务必确认！)
     *   用户名/密码： 通常留
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Nauru SIM 卡购买与激活指南](https://faciylike.github.io/nauru-sim-guides)
